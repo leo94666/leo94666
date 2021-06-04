@@ -7,7 +7,7 @@ I'm Leo, a Senior Architect from NanJing, China.
 
 ## Languages
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Vue.js](https://img.shields.io/badge/-Vuejs-000?&logo=Vuejs)
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
