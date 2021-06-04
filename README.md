@@ -38,7 +38,7 @@ Welcome to my Github Homepage !
 ### 🤝🏻 Connect with Me
 
 
-⭐️ ![[Leo Technology Stack](https://leo94666.github.io/)](https://img.shields.io/badge/Blogger-%230077B5.svg?&style=flat-square&logo=Blogger&logoColor=white)
+ 👉 [Leo Technology Stack](https://leo94666.github.io/)
 
 
 
