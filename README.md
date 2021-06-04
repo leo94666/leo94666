@@ -8,23 +8,25 @@ I'm Leo, a Senior Architect from NanJing, China.
 ## Languages
 
 ![Vue.js](https://img.shields.io/badge/-Vuejs-000?&logo=Vuejs)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![Android Framework](https://img.shields.io/badge/-Android-000?&logo=Android)
+
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![MySQL](https://img.shields.io/badge/-mysql-000?&logo=mysql)
+
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
-
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+
 
 - Vue.js
 - Java
