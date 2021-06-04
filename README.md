@@ -38,12 +38,12 @@ Welcome to my Github Homepage !
 
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <p align="center">
   <br/>
-  <a href="https://leo94666.github.io/">
-    <img src="https://img.shields.io/badge/LBlogger-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  <a href="https://leo94666.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://github.com/parth-27">
