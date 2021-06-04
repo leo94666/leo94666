@@ -4,7 +4,7 @@
 
 I'm Leo, a Senior Architect from NanJing, China.
 
-
+- Vue.js
 - Android
 - Android Framework
 - SpringBoot
