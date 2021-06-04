@@ -7,8 +7,8 @@ I'm Leo, a Senior Architect from NanJing, China.
 
 ## Languages
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue%2Ejs)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node%2Ejs)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![MySQL](https://img.shields.io/badge/-Mysql-000?&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
