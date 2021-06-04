@@ -35,16 +35,9 @@ Welcome to my Github Homepage !
 
 
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+---
 
-⭐️![Blog](https://img.shields.io/badge/Blogger-%230077B5.svg?&style=flat-square&logo=Blogger&logoColor=white)
+⭐️ [Blog](https://img.shields.io/badge/Blogger-%230077B5.svg?&style=flat-square&logo=Blogger&logoColor=white)
 
-
-<p align="center">
-  <br/>
-  <a href="https://leo94666.github.io/" target="_blank">
-    ⭐️ <img src="https://img.shields.io/badge/Blogger-%230077B5.svg?&style=flat-square&logo=Blogger&logoColor=white">
-  </a>
-</p>
 
 
