@@ -33,10 +33,10 @@ Welcome to my Github Homepage !
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-535D6C?&logo=Ubuntu)
 ![MacBook Pro](https://img.shields.io/badge/-Macbook%20Pro-535D6C?&logo=apple)
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <h1 align="center">
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <p align="center">
   <br/>
