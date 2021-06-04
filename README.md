@@ -8,6 +8,7 @@ I'm Leo, a Senior Architect from NanJing, China.
 - Android
 - Android Framework
 - SpringBoot
-- Linux
+- Ubuntu
+
 
 
