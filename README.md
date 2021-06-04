@@ -3,6 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=leo94666&theme=gruvbox&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 I'm Leo, a Senior Architect from NanJing, China.
+Welcome to my Github Homepage!
 
 
 ## Languages
