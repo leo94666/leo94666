@@ -5,7 +5,7 @@
 I'm Leo, a Senior Architect from NanJing, China.
 Welcome to my Github Homepage !
 
-## 🌐 Languages
+### 🌐 Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript&logoColor=violet)
 ![Java](https://img.shields.io/badge/-Java-535D6C?&logo=Java)
@@ -14,7 +14,7 @@ Welcome to my Github Homepage !
 ![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
 
 
-## 🛠 Technologies
+### 🛠 Technologies
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=Vue%2Ejs)
 ![Node.js](https://img.shields.io/badge/-Node.js-535D6C?&logo=node%2Ejs)
@@ -26,7 +26,7 @@ Welcome to my Github Homepage !
 ![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
 
 
-## 🔧 Tools 
+### 🔧 Tools 
 ![Idea](https://img.shields.io/badge/-Intellij%20Idea-535D6C?&logo=intellij-idea)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-535D6C?&logo=Android-Studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-535D6C?&logo=Visual-Studio-Code)
@@ -35,7 +35,7 @@ Welcome to my Github Homepage !
 
 
 
-## 🤝🏻 Connect with Me
+### 🤝🏻 Connect with Me
 
 
 ⭐️ [Leo Technology Stack](https://img.shields.io/badge/Blogger-%230077B5.svg?&style=flat-square&logo=Blogger&logoColor=white)
