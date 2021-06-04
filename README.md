@@ -23,9 +23,9 @@ I'm Leo, a Senior Architect from NanJing, China.
 
 
 ## Tools
-![Idea](https://img.shields.io/badge/-intellij-idea-000?&logo=intellij-idea)
-![Android Studio](https://img.shields.io/badge/-Android-000?&logo=Android-Studio)
-![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-000?&logo=Visual-Studio-Code)
+![Idea](https://img.shields.io/badge/-Intellij%20Idea-000?&logo=intellij-idea)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android-Studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
 
