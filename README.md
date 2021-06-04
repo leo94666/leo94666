@@ -11,7 +11,7 @@ Welcome to my Github Homepage!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-535D6C?&logo=Java)
 ![C](https://img.shields.io/badge/-C-535D6C?&logo=c)
-![C++](https://img.shields.io/badge/-C++-535D6C?&logo=c++)
+![C++](https://img.shields.io/badge/-C++-535D6C?&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
 
 ## Technologies
