@@ -16,7 +16,7 @@ Welcome to my Github Homepage!
 
 ## Technologies
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=vue%2Ejs)
+![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=Vue%2Ejs)
 ![Node.js](https://img.shields.io/badge/-Node.js-535D6C?&logo=node%2Ejs)
 ![Android](https://img.shields.io/badge/-Android-535D6C?&logo=Android)
 ![Android Framework](https://img.shields.io/badge/-Android%20Framework-535D6C?&logo=Android)
