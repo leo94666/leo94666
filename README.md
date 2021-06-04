@@ -8,7 +8,7 @@ I'm Leo, a Senior Architect from NanJing, China.
 ## Languages
 
 ![Vue.js](https://img.shields.io/badge/-Vue-js-000?&logo=vue-js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node-js)
+![Node.js](https://img.shields.io/badge/-Node-js-000?&logo=node-js)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![MySQL](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -16,7 +16,7 @@ I'm Leo, a Senior Architect from NanJing, China.
 ## Technologies
 
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![Android Framework](https://img.shields.io/badge/-AndroidFramework-000?&logo=Android)
+![Android Framework](https://img.shields.io/badge/-Android-Framework-000?&logo=Android)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
