@@ -3,16 +3,18 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=leo94666&theme=gruvbox&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 I'm Leo, a Senior Architect from NanJing, China.
-Welcome to my Github Homepage!
+Welcome to my Github Homepage !
 
+  <br/>
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript&logoColor=violet)
 ![Java](https://img.shields.io/badge/-Java-535D6C?&logo=Java)
 ![C](https://img.shields.io/badge/-C-535D6C?&logo=c)
 ![C++](https://img.shields.io/badge/-C++-535D6C?&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
+  <br/>
 
 ## Technologies
 
@@ -25,6 +27,7 @@ Welcome to my Github Homepage!
 ![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
 
+  <br/>
 
 ## Tools
 ![Idea](https://img.shields.io/badge/-Intellij%20Idea-535D6C?&logo=intellij-idea)
@@ -34,5 +37,19 @@ Welcome to my Github Homepage!
 ![MacBook Pro](https://img.shields.io/badge/-Macbook%20Pro-535D6C?&logo=apple)
 
 
+<h1 align="center">
+✨ Where you can find me ✨
+
+<p align="center">
+  <br/>
+  <a href="https://leo94666.github.io/">
+    <img src="https://img.shields.io/badge/LBlogger-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/parth-27">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+</p>
+</h1>
 
 
