@@ -5,8 +5,6 @@
 I'm Leo, a Senior Architect from NanJing, China.
 Welcome to my Github Homepage !
 
-<br/>
-
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript&logoColor=violet)
@@ -15,7 +13,6 @@ Welcome to my Github Homepage !
 ![C++](https://img.shields.io/badge/-C++-535D6C?&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
 
-<br/>
 
 ## Technologies
 
@@ -28,7 +25,6 @@ Welcome to my Github Homepage !
 ![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
 
-<br/>
 
 ## Tools
 ![Idea](https://img.shields.io/badge/-Intellij%20Idea-535D6C?&logo=intellij-idea)
@@ -37,13 +33,11 @@ Welcome to my Github Homepage !
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-535D6C?&logo=Ubuntu)
 ![MacBook Pro](https://img.shields.io/badge/-Macbook%20Pro-535D6C?&logo=apple)
 
-<br/>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <h1 align="center">
 
 
-  
 <p align="center">
   <br/>
   <a href="https://leo94666.github.io/" target="_blank">
