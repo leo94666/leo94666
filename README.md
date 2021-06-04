@@ -7,27 +7,27 @@ I'm Leo, a Senior Architect from NanJing, China.
 
 ## Languages
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-E15718?&logo=vue%2Ejs)
-![Node.js](https://img.shields.io/badge/-Node.js-E15718?&logo=node%2Ejs)
-![Java](https://img.shields.io/badge/-Java-FF0000?&logo=Java)
-![MySQL](https://img.shields.io/badge/-Mysql-E15718?&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-E15718?&logo=Redis)
-![Python](https://img.shields.io/badge/-Python-E15718?&logo=Python)
+![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=vue%2Ejs)
+![Node.js](https://img.shields.io/badge/-Node.js-535D6C?&logo=node%2Ejs)
+![Java](https://img.shields.io/badge/-Java-535D6C?&logo=Java)
+![MySQL](https://img.shields.io/badge/-Mysql-535D6C?&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
+![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
 
 ## Technologies
 
-![Android](https://img.shields.io/badge/-Android-FF0000?&logo=Android)
-![Android Framework](https://img.shields.io/badge/-Android%20Framework-FF0000?&logo=Android)
-![Spring](https://img.shields.io/badge/-Spring-E15718?&logo=Spring)
-![Docker](https://img.shields.io/badge/-Docker-E15718?&logo=Docker)
+![Android](https://img.shields.io/badge/-Android-535D6C?&logo=Android)
+![Android Framework](https://img.shields.io/badge/-Android%20Framework-535D6C?&logo=Android)
+![Spring](https://img.shields.io/badge/-Spring-535D6C?&logo=Spring)
+![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
 
 
 ## Tools
-![Idea](https://img.shields.io/badge/-Intellij%20Idea-E15718?&logo=intellij-idea)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-FF0000?&logo=Android-Studio)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FF0000?&logo=Visual-Studio-Code)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E15718?&logo=Ubuntu)
-![MacBook Pro](https://img.shields.io/badge/-Macbook%20Pro-E15718?&logo=apple)
+![Idea](https://img.shields.io/badge/-Intellij%20Idea-535D6C?&logo=intellij-idea)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-535D6C?&logo=Android-Studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-535D6C?&logo=Visual-Studio-Code)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-535D6C?&logo=Ubuntu)
+![MacBook Pro](https://img.shields.io/badge/-Macbook%20Pro-535D6C?&logo=apple)
 
 
 
