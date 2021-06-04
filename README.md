@@ -7,18 +7,21 @@ I'm Leo, a Senior Architect from NanJing, China.
 
 ## Languages
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=vue%2Ejs)
-![Node.js](https://img.shields.io/badge/-Node.js-535D6C?&logo=node%2Ejs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-535D6C?&logo=Java)
-![MySQL](https://img.shields.io/badge/-Mysql-535D6C?&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
+![C](https://img.shields.io/badge/-C-535D6C?&logo=c)
+![C++](https://img.shields.io/badge/-C++-535D6C?&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
 
 ## Technologies
 
+![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=vue%2Ejs)
+![Node.js](https://img.shields.io/badge/-Node.js-535D6C?&logo=node%2Ejs)
 ![Android](https://img.shields.io/badge/-Android-535D6C?&logo=Android)
 ![Android Framework](https://img.shields.io/badge/-Android%20Framework-535D6C?&logo=Android)
 ![Spring](https://img.shields.io/badge/-Spring-535D6C?&logo=Spring)
+![MySQL](https://img.shields.io/badge/-Mysql-535D6C?&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
 
 
