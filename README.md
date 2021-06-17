@@ -39,7 +39,7 @@ Welcome to my Github Homepage !
 
 
    👉  [Leo Technology Stack](https://leo94666.github.io/)
- <a href ="http://stackoverflow.com"target ="_blank"> GO</a> 
+ <a href ="http://stackoverflow.com" target ="_blank">GO</a> 
 
 
 
