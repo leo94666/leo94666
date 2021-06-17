@@ -9,6 +9,7 @@ Welcome to my Github Homepage !
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript&logoColor=violet)
 ![Java](https://img.shields.io/badge/-Java-535D6C?&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-535D6C?&logo=kotlin)
 ![C](https://img.shields.io/badge/-C-535D6C?&logo=c)
 ![C++](https://img.shields.io/badge/-C++-535D6C?&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
