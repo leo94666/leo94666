@@ -25,7 +25,12 @@ Welcome to my Github Homepage !
 ![MySQL](https://img.shields.io/badge/-Mysql-535D6C?&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
+
+### 🛠 Audio and Video
+
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-535D6C?&logo=FFmpeg)
+![OPENGLES](https://img.shields.io/badge/-OpenGL-535D6C?&logo=OpenGL)
+![OPENGCV](https://img.shields.io/badge/-OpenCV-535D6C?&logo=OpenCV)
 
 
 
