@@ -25,7 +25,7 @@ Welcome to my Github Homepage !
 ![MySQL](https://img.shields.io/badge/-Mysql-535D6C?&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
-![FFmpeg](https://img.shields.io/badge/-Ffmpeg-535D6C?&logo=FFmpeg)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-535D6C?&logo=FFmpeg)
 
 
 
