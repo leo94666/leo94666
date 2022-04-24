@@ -31,6 +31,7 @@ Welcome to my Github Homepage !
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-535D6C?&logo=FFmpeg)
 ![OPENGLES](https://img.shields.io/badge/-OpenGL-535D6C?&logo=OpenGL)
 ![OPENGCV](https://img.shields.io/badge/-OpenCV-535D6C?&logo=OpenCV)
+![SDL](https://img.shields.io/badge/-SDL-535D6C?&logo=SDL)
 
 
 
