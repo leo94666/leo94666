@@ -1,6 +1,6 @@
 ## Hi, Leo is here!
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=leo94666&theme=gruvbox&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=leo94666&theme=gruvbox&show_icons=true">](https://leo94666.github.io/)
 
 I'm Leo, a Senior Architect from NanJing, China.
 Welcome to my Github Homepage !
