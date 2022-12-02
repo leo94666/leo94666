@@ -7,24 +7,23 @@ Welcome to my Github Homepage !
 
 ### 🌐 Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript&logoColor=violet)
 ![Java](https://img.shields.io/badge/-Java-535D6C?&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-535D6C?&logo=kotlin)
 ![C](https://img.shields.io/badge/-C-535D6C?&logo=c)
 ![C++](https://img.shields.io/badge/-C++-535D6C?&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-535D6C?&logo=JavaScript&logoColor=violet)
 ![Python](https://img.shields.io/badge/-Python-535D6C?&logo=Python)
 
 
 ### 🛠 Technologies
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=Vue%2Ejs)
-![Node.js](https://img.shields.io/badge/-Node.js-535D6C?&logo=node%2Ejs)
+
 ![Android](https://img.shields.io/badge/-Android-535D6C?&logo=Android)
 ![Android Framework](https://img.shields.io/badge/-Android%20Framework-535D6C?&logo=Android)
+![Vue.js](https://img.shields.io/badge/-Vue.js-535D6C?&logo=Vue%2Ejs)
+![Node.js](https://img.shields.io/badge/-Node.js-535D6C?&logo=node%2Ejs)
 ![Linux](https://img.shields.io/badge/-Linux-535D6C?&logo=Linux)
 ![Spring](https://img.shields.io/badge/-Spring-535D6C?&logo=Spring)
-![MySQL](https://img.shields.io/badge/-Mysql-535D6C?&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-535D6C?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-535D6C?&logo=Docker)
 
 ### 🛠 Audio and Video
@@ -43,11 +42,14 @@ Welcome to my Github Homepage !
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-535D6C?&logo=Ubuntu)
 ![MacBook Pro](https://img.shields.io/badge/-Macbook%20Pro-535D6C?&logo=apple)
 
+### 😜 Industry
 
+- 智能终端行业
+- 互联网医疗行业
 
 ### 🤝🏻 Connect with Me
 
-
+   👉  [微信公众号](https://mp.weixin.qq.com/s/h8b2lYrt0nCD1wGoFGvZqw)
    👉  [掘金](https://juejin.cn/user/888061128084471)
    👉  [Leo Technology Stack](https://leo94666.github.io/)
 
