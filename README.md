@@ -44,7 +44,7 @@ Welcome to my Github Homepage !
 
 ### 😜 Industry
 
-- 智能终端行业
+- 物联网行业
 - 互联网医疗行业
 
 ### 🤝🏻 Connect with Me
