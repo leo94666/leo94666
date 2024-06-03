@@ -52,9 +52,11 @@ Welcome to my Github Homepage !
    👉  [微信公众号](https://mp.weixin.qq.com/s/h8b2lYrt0nCD1wGoFGvZqw)
    👉  [掘金](https://juejin.cn/user/888061128084471)
    👉  [Leo Technology Stack](https://leo94666.github.io/)
+   👉  扫一扫下方二维码加我微信👇
 
-   👉  <center class="half">
-         <img src="./doc/wechat.jpg" width="240"/>
-        </center>
+<div align=center>
+<img src="./doc/wechat.jpg" width="240" />
+</div>
+
 
 
